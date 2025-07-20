@@ -1,4 +1,5 @@
-#Comparative Analysis of ML Models for Rainfall Prediction
+# Comparative Analysis of ML Models for Rainfall Prediction
+
 I have made this project to study and compare different machine learning models to predict rainfall. The goal was simple; to find the best model. Even though the project is simple, it still helps us understand various concepts. You may try to play around with the code (using a different dataset or more models) and try to learn.
 
 ## Project Highlights
